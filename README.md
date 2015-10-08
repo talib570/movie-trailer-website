@@ -18,5 +18,11 @@ then type the following command
   python entertainment_center.py
 ```
 
+### Example screenshots
+Main page:
+![screenshot2](images/screenshots/screenshot2.png)
+
+Movie trailer:
+![screenshot1](images/screenshots/screenshot1.png)
 ### License
  - Please see the file called LICENSE.

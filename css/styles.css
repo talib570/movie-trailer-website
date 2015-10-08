@@ -1,0 +1,58 @@
+body {
+    padding-top: 80px;
+}
+#trailer .modal-dialog {
+    width: 1080px;
+    height: 485px;
+    background-color: white;
+}
+.hanging-close {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    z-index: 9001;
+}
+#trailer-video {
+    width: 640px;
+    height: 480px;
+}
+.movie-tile {
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.movie-tile:hover {
+    background-color: #EEE;
+    cursor: pointer;
+}
+.scale-media {
+}
+.scale-media iframe {
+    border: none;
+    height: 480px;
+    position: absolute;
+    width: 640px;
+    left: 0;
+    top: 0;
+    background-color: white;
+    padding:20px;
+}
+.modal-content {
+    height:485px;
+}
+.modal-dialog {
+    border-radius: 6px;
+}
+#trailer-video-container p {
+    padding:5px;
+}
+#trailer-video-container img {
+    float: left;
+    padding:5px;
+}
+.movie_info {
+    padding:20px;
+}
+.poster_img {
+    width:120px;
+    height:200px;
+}

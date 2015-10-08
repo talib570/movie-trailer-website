@@ -18,6 +18,9 @@ then type the following command
   python entertainment_center.py
 ```
 
+### CHANGELOG
+For changelogs please see the file called CHANGELOG.
+
 ### Example screenshots
 Main page:
 ![screenshot2](images/screenshots/screenshot2.png)
